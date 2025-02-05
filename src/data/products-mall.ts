@@ -3,7 +3,7 @@ import { Producto } from "../types/index-types"
 export const productosMall : Producto[] = [
     {   
         name: "Palomitas Chili Poppy",
-        img: "/public/productos/frituras/palomitas-mexicanas-1.webp",
+        img: "/productos/frituras/palomitas-mexicanas-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Frituras",
@@ -12,7 +12,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Palomitas Paradise",
-        img: "/public/productos/frituras/palomitas-premium-1.webp",
+        img: "/productos/frituras/palomitas-premium-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 30,
         section: "Frituras",
@@ -21,7 +21,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Papas Fuego Azul",
-        img: "/public/productos/frituras/papas-blue-1.webp",
+        img: "/productos/frituras/papas-blue-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Frituras",
@@ -30,7 +30,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Crunchitos",
-        img: "/public/productos/frituras/papas-crunchitos-1.webp",
+        img: "/productos/frituras/papas-crunchitos-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Frituras",
@@ -39,7 +39,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Papas Lemon Twist",
-        img: "/public/productos/frituras/papas-limon-1.webp",
+        img: "/productos/frituras/papas-limon-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 12,
         section: "Frituras",
@@ -48,7 +48,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Papas Volcano",
-        img: "/public/productos/frituras/papas-vulcano-1.webp",
+        img: "/productos/frituras/papas-vulcano-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Frituras",
@@ -57,7 +57,7 @@ export const productosMall : Producto[] = [
     },
     {   
         name: "Agua HYDRA PURE",
-        img: "/public/productos/bebidas/agua-pura-1.webp",
+        img: "/productos/bebidas/agua-pura-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 10,
         section: "Bebidas",
@@ -66,7 +66,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Refresco de Uva SLASH",
-        img: "/public/productos/bebidas/refresco-uva-1.webp",
+        img: "/productos/bebidas/refresco-uva-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Bebidas",
@@ -75,7 +75,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Refresco de Mora ZEST",
-        img: "/public/productos/bebidas/refresco-mora-azul-1.webp",
+        img: "/productos/bebidas/refresco-mora-azul-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Bebidas",
@@ -84,7 +84,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Refresco de Frutos Rojos BLAST",
-        img: "/public/productos/bebidas/refresco-berry-1.webp",
+        img: "/productos/bebidas/refresco-berry-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Bebidas",
@@ -93,7 +93,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Refresco de Cola SPARK",
-        img: "/public/productos/bebidas/refresco-cola-1.webp",
+        img: "/productos/bebidas/refresco-cola-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 35,
         section: "Bebidas",
@@ -102,7 +102,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Refresco de Piña BREEZE",
-        img: "/public/productos/bebidas/refresco-pina-1.webp",
+        img: "/productos/bebidas/refresco-pina-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Bebidas",
@@ -111,7 +111,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chicles",
-        img: "/public/productos/dulces/chicles-sabores-1.webp",
+        img: "/productos/dulces/chicles-sabores-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 10,
         section: "Dulces",
@@ -120,7 +120,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chocolate Blanco",
-        img: "/public/productos/dulces/chocolate-blanco-1.webp",
+        img: "/productos/dulces/chocolate-blanco-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Dulces",
@@ -129,7 +129,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chocolate de Leche",
-        img: "/public/productos/dulces/chocolate-cafe-1.webp",
+        img: "/productos/dulces/chocolate-cafe-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Dulces",
@@ -138,7 +138,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chocolate Chuky",
-        img: "/public/productos/dulces/chocolate-chuky-1.webp",
+        img: "/productos/dulces/chocolate-chuky-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Dulces",
@@ -147,7 +147,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chocolate Negro",
-        img: "/public/productos/dulces/chocolate-negro-1.webp",
+        img: "/productos/dulces/chocolate-negro-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 35,
         section: "Dulces",
@@ -156,7 +156,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chocolate Pops",
-        img: "/public/productos/dulces/chocolate-pops-1.webp",
+        img: "/productos/dulces/chocolate-pops-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Dulces",
@@ -165,7 +165,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Hamburguesa",
-        img: "/public/productos/comida-rapida/burger-1.webp",
+        img: "/productos/comida-rapida/burger-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 50,
         section: "Comida Rápida",
@@ -174,7 +174,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Hamburguesa Leña",
-        img: "/public/productos/comida-rapida/burger-3.webp",
+        img: "/productos/comida-rapida/burger-3.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 50,
         section: "Comida Rápida",
@@ -183,7 +183,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Papas a la Francesa",
-        img: "/public/productos/comida-rapida/papas-francesa-1.webp",
+        img: "/productos/comida-rapida/papas-francesa-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 40,
         section: "Comida Rápida",
@@ -192,7 +192,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Pizza Goro",
-        img: "/public/productos/comida-rapida/pizza-aventura-1.webp",
+        img: "/productos/comida-rapida/pizza-aventura-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 50,
         section: "Comida Rápida",
@@ -201,7 +201,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Pizza Cool",
-        img: "/public/productos/comida-rapida/pizza-cool-1.webp",
+        img: "/productos/comida-rapida/pizza-cool-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 60,
         section: "Comida Rápida",
@@ -210,7 +210,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Pizza Hawaiana",
-        img: "/public/productos/comida-rapida/pizza-hawaiana-1.webp",
+        img: "/productos/comida-rapida/pizza-hawaiana-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 45,
         section: "Comida Rápida",
@@ -219,7 +219,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Pizza Mexicana",
-        img: "/public/productos/comida-rapida/pizza-mexicana-2.webp",
+        img: "/productos/comida-rapida/pizza-mexicana-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 40,
         section: "Comida Rápida",
@@ -228,7 +228,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Helado Penguin",
-        img: "/public/productos/hielo/helado-1.webp",
+        img: "/productos/hielo/helado-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 35,
         section: "Helados",
@@ -237,7 +237,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Paletas Magic",
-        img: "/public/productos/hielo/paletas-hielo-magic-1.webp",
+        img: "/productos/hielo/paletas-hielo-magic-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Helados",
@@ -246,7 +246,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Paletas Colours",
-        img: "/public/productos/hielo/paletas-hielo-sabores-1.webp",
+        img: "/productos/hielo/paletas-hielo-sabores-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Helados",
@@ -255,7 +255,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Helado Kawai",
-        img: "/public/productos/lacteos/cream-1.webp",
+        img: "/productos/lacteos/cream-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Lácteos",
@@ -264,7 +264,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Leche Blanca",
-        img: "/public/productos/lacteos/leche-blanca-1.webp",
+        img: "/productos/lacteos/leche-blanca-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Lácteos",
@@ -273,7 +273,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Yogurt Griego Hermes",
-        img: "/public/productos/lacteos/yogurt-griego-1.webp",
+        img: "/productos/lacteos/yogurt-griego-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Lácteos",
@@ -282,7 +282,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Jamón de Cerdo",
-        img: "/public/productos/origen-animal/ham-1.webp",
+        img: "/productos/origen-animal/ham-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Carnes",
@@ -291,7 +291,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Salchichas de Pavo",
-        img: "/public/productos/origen-animal/sausage-1.webp",
+        img: "/productos/origen-animal/sausage-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Carnes",
@@ -300,7 +300,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas de Vainilla",
-        img: "/public/productos/galletas/galletas-ardilla.webp",
+        img: "/productos/galletas/galletas-ardilla.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Galletas",
@@ -309,7 +309,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Aventura",
-        img: "/public/productos/galletas/galletas-aventura-1.webp",
+        img: "/productos/galletas/galletas-aventura-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Galletas",
@@ -318,7 +318,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Soccer",
-        img: "/public/productos/galletas/galletas-balon-1.webp",
+        img: "/productos/galletas/galletas-balon-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Galletas",
@@ -327,7 +327,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas con Chispas",
-        img: "/public/productos/galletas/galletas-chispas-1.webp",
+        img: "/productos/galletas/galletas-chispas-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Galletas",
@@ -336,7 +336,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Choco Vainilla",
-        img: "/public/productos/galletas/galletas-choco-vainilia-1.webp",
+        img: "/productos/galletas/galletas-choco-vainilia-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 30,
         section: "Galletas",
@@ -345,7 +345,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Monkey",
-        img: "/public/productos/galletas/galletas-monkey-1.webp",
+        img: "/productos/galletas/galletas-monkey-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Galletas",
@@ -354,7 +354,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Cookie Monster",
-        img: "/public/productos/galletas/galletas-monster-1.webp",
+        img: "/productos/galletas/galletas-monster-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 30,
         section: "Galletas",
@@ -363,7 +363,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Sparta",
-        img: "/public/productos/galletas/galletas-spartan-1.webp",
+        img: "/productos/galletas/galletas-spartan-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 30,
         section: "Galletas",
@@ -372,7 +372,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Galletas Vainilla",
-        img: "/public/productos/galletas/galletas-vainilla-2.webp",
+        img: "/productos/galletas/galletas-vainilla-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 15,
         section: "Galletas",
@@ -381,7 +381,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Protector Solar Sun",
-        img: "/public/productos/cuidado-personal/protector-solar-1.webp",
+        img: "/productos/cuidado-personal/protector-solar-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 70,
         section: "Cuidado personal",
@@ -390,7 +390,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Crema Facial Kawai",
-        img: "/public/productos/cuidado-personal/crema-facial-1.webp",
+        img: "/productos/cuidado-personal/crema-facial-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 60,
         section: "Cuidado personal",
@@ -399,7 +399,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Hidratante Hydro",
-        img: "/public/productos/cuidado-personal/hidratante-facial-1.webp",
+        img: "/productos/cuidado-personal/hidratante-facial-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 65,
         section: "Cuidado personal",
@@ -408,7 +408,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Tequila Revolución",
-        img: "/public/productos/vinos-licores/tequila-revolucion-2.webp",
+        img: "/productos/vinos-licores/tequila-revolucion-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 120,
         section: "Vinos y licores",
@@ -417,7 +417,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Black Phone 12",
-        img: "/public/productos/tecnologia/celular-1.webp",
+        img: "/productos/tecnologia/celular-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 500,
         section: "Tecnología",
@@ -426,7 +426,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Camisas Hawaianas",
-        img: "/public/productos/ropa/camisa.webp",
+        img: "/productos/ropa/camisa.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 75,
         section: "Ropa",
@@ -435,7 +435,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Bufanda Pinguinos",
-        img: "/public/productos/ropa/bufanda-pinguino-1.webp",
+        img: "/productos/ropa/bufanda-pinguino-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 45,
         section: "Ropa",
@@ -444,7 +444,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Sudadera Negra",
-        img: "/public/productos/ropa/sudadera-negra-2.webp",
+        img: "/productos/ropa/sudadera-negra-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 100,
         section: "Ropa",
@@ -453,7 +453,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Gorra F1",
-        img: "/public/productos/ropa/gorra-auto-1.webp",
+        img: "/productos/ropa/gorra-auto-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 40,
         section: "Ropa",
@@ -462,7 +462,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Chicharrón de cerdo",
-        img: "/public/productos/origen-animal/chicharron-1.webp",
+        img: "/productos/origen-animal/chicharron-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Carnes",
@@ -471,7 +471,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Carne para parrilla",
-        img: "/public/productos/origen-animal/carne-asada-1.webp",
+        img: "/productos/origen-animal/carne-asada-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 50,
         section: "Carnes",
@@ -480,7 +480,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Filete para empanizar",
-        img: "/public/productos/origen-animal/filete-1.webp",
+        img: "/productos/origen-animal/filete-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 45,
         section: "Carnes",
@@ -489,7 +489,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Tocino",
-        img: "/public/productos/origen-animal/tocino-1.webp",
+        img: "/productos/origen-animal/tocino-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 20,
         section: "Carnes",
@@ -498,7 +498,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Playeras animadas",
-        img: "/public/productos/ropa/playeras-1.webp",
+        img: "/productos/ropa/playeras-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 25,
         section: "Ropa",
@@ -507,7 +507,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Audifonos Gamer",
-        img: "/public/productos/tecnologia/headphone-1.webp",
+        img: "/productos/tecnologia/headphone-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 75,
         section: "Tecnología",
@@ -516,7 +516,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Bocina portatil",
-        img: "/public/productos/tecnologia/bocina-1.webp",
+        img: "/productos/tecnologia/bocina-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 70,
         section: "Tecnología",
@@ -525,7 +525,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Vodka Tropical",
-        img: "/public/productos/vinos-licores/vodka-2.webp",
+        img: "/productos/vinos-licores/vodka-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 130,
         section: "Vinos y licores",
@@ -534,7 +534,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Whisky Tree",
-        img: "/public/productos/vinos-licores/whisky-2.webp",
+        img: "/productos/vinos-licores/whisky-2.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 145,
         section: "Vinos y licores",
@@ -543,7 +543,7 @@ export const productosMall : Producto[] = [
     },
     {
         name: "Desodorante Sport",
-        img: "/public/productos/cuidado-personal/desodorante-1.webp",
+        img: "/productos/cuidado-personal/desodorante-1.webp",
         description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum mattis ornare. Nullam commodo urna sed justo sollicitudin elementum.",
         price: 40,
         section: "Cuidado personal",

@@ -50,7 +50,7 @@ export default function Header({datosProductos, carrito, agregarAlCarrito, elimi
                     <h1 className="font-medium text-3xl">
                         Super<span className="font-bold">Max</span>
                     </h1>
-                    <img className=" w-10" src="/public/mall-bag-svgrepo-com.svg" alt="SuperMax" />
+                    <img className=" w-10" src="/mall-bag-svgrepo-com.svg" alt="SuperMax" />
                 </div>
 
                 <div className="flex w-full max-w-3xl justify-center">
@@ -64,7 +64,7 @@ export default function Header({datosProductos, carrito, agregarAlCarrito, elimi
                             onChange={buscadorProductos}
                             value={textoInput}
                         />
-                        <img className="absolute w-5 right-3 top-1/2 transform -translate-y-1/2" src="/public/search-svgrepo-com.svg" alt="Buscador" />
+                        <img className="absolute w-5 right-3 top-1/2 transform -translate-y-1/2" src="/search-svgrepo-com.svg" alt="Buscador" />
                     </div>
                     </form>
                 </div>
@@ -75,7 +75,7 @@ export default function Header({datosProductos, carrito, agregarAlCarrito, elimi
                         onClick={cambiarVisibilidad}
                         className=" relative"
                     >
-                        <img className="w-10" src="/public/cart-shopping-svgrepo-com.svg" alt="" />
+                        <img className="w-10" src="/cart-shopping-svgrepo-com.svg" alt="" />
                         <div className=" bg-[#393e46] rounded-full w-7 h-7 text-white flex items-center justify-center absolute bottom-0 top-5 left-5 right-0">
                             {carrito.length}
                         </div>
@@ -152,8 +152,8 @@ export default function Header({datosProductos, carrito, agregarAlCarrito, elimi
                     {carritoVacio ? (
                         <div className=" flex justify-center my-10">
                             <div className=" relative">
-                                <img className=" w-60 mx-auto" src="/public/cart-shopping-svgrepo-com.svg" alt="Carrito" />
-                                {/* <img className=" w-20 absolute top-40 bottom-0 right-0 left-48" src="/public/cancel-svgrepo-com.svg" alt="No hay articulos"/> */}
+                                <img className=" w-60 mx-auto" src="/cart-shopping-svgrepo-com.svg" alt="Carrito" />
+                                {/* <img className=" w-20 absolute top-40 bottom-0 right-0 left-48" src="/cancel-svgrepo-com.svg" alt="No hay articulos"/> */}
                                 <p className=" text-center">Agrega productos a tu carrito y los verás aquí</p>
                             </div>
                         </div>

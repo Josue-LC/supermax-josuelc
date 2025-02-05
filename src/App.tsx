@@ -30,7 +30,7 @@ function App() {
       />
       
       <div className=' max-w-7xl m-auto'>
-        <img src="/public/frosty-friends-new-1.png" alt="Banner" />
+        <img src="/frosty-friends-new-1.png" alt="Banner" />
       </div>
 
       <section className=' max-w-7xl m-auto my-10'>
